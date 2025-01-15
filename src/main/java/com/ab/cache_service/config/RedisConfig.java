@@ -14,6 +14,9 @@ import org.springframework.util.StringUtils;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Redis config
+ */
 @Configuration
 public class RedisConfig {
 
